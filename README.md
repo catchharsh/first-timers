@@ -93,6 +93,11 @@ Start adding your names here:
 - I am a student at Manipal Institute of Technology
 - My hobbies include coding, reading and running.
 
+### Harsh Gupta
+- I'm passionate about competitive coding
+- I am a student at Indian Institute of Technology,Patna
+- My hobbies include coding,listening music,watching animes.
+
 ## How to Contribute
 
 Please read our [contributing](CONTRIBUTING.md) guidelines before making your pull request.
